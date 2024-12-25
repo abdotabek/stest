@@ -1,0 +1,11 @@
+POST localhost:8080/api/employees
+Content-Type: application/json
+
+{
+  "firstName": "ali",
+  "lastName": "aliyev",
+  "password": "12345",
+  "phoneNumber": "+998934574125",
+  "role": "ROLE_ADMIN",
+  "email": "ali74@gmail.com"
+}
